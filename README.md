@@ -1,9 +1,11 @@
 # 👨‍💻 Gunanarpavi | Software Developer
 
-![Profile Banner](https://img.icons8.com/color/96/000000/source-code.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/96/source-code.png"/>
+</p>
 
 Welcome to my GitHub profile!  
-I am a passionate and motivated Software Developer who loves learning, building, and improving technical solutions. I am continuously enhancing my skills in programming, problem-solving, and modern technologies.
+I am a passionate and motivated Software Developer who enjoys learning, building projects, and improving technical solutions. I continuously work on enhancing my programming, problem-solving, and development skills.
 
 ---
 
@@ -47,27 +49,46 @@ I am a passionate and motivated Software Developer who loves learning, building,
 
 - ✔️ Quick Learner  
 - ✔️ Adaptable  
-- ✔️ Team Player
-- ✔️ Multi-tasking
+- ✔️ Team Player  
+- ✔️ Multi-tasking  
 - ✔️ Time Management  
 - ✔️ Self-Motivated  
-- ✔️ Communication Skills  
+- ✔️ Good Communication Skills  
 
 ---
 
 ## 📂 Projects
 
-Here are some of my projects:
+### 🔹 Image Steganography
 
-### 🔹 Project 1: [Image steganography]
-📌 Description: Short explanation of the project  
-🛠️ Technologies: Java / Python / Web  
-📁 Repository: Link Here  
+📌 **Description:**  
+A security-based application that hides secret messages inside images using encryption and steganography techniques. It ensures secure data transmission and protects sensitive information from unauthorized access.
 
-### 🔹 Project 2: [Skin Disaese Prediction]
-📌 Description: Short explanation  
-🛠️ Technologies: Used  
-📁 Repository: Link Here  
+🛠️ **Technologies Used:**  
+- Python  
+- Cryptography  
+- Image Processing  
+
+📁 **Repository:**  
+https://github.com/Gunanarpavi
+
+---
+
+### 🔹 Skin Disease Prediction
+
+📌 **Description:**  
+A machine learning-based system that analyzes skin images and predicts possible skin diseases. It helps in early detection and provides basic medical insights.
+
+🛠️ **Technologies Used:**  
+- Python  
+- Machine Learning  
+- TensorFlow / Scikit-learn  
+- Image Processing  
+
+📁 **Repository:**  
+https://github.com/Gunanarpavi
+
+---
 
 > ⚠️ *More projects coming soon…*
 
@@ -75,11 +96,9 @@ Here are some of my projects:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunanarpavi&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-👉 Replace `YOUR_USERNAME` with your GitHub username.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunanarpavi&layout=compact)
 
 ---
 
@@ -95,13 +114,11 @@ Here are some of my projects:
 
 ## 📫 Contact Me
 
-Feel free to connect with me:
-
 | Platform | Link |
 |----------|------|
-| Email | gunanarpavii@gmail.com |
-| LinkedIn | https://linkedin.com/in/yourprofile |
-| GitHub | https://github.com/yourusername |
+| 📧 Email | gunanarpavii@gmail.com |
+| 💼 LinkedIn | https://linkedin.com/in/gunanarpavi-ar |
+| 🐙 GitHub | https://github.com/Gunanarpavi |
 
 ---
 
@@ -120,7 +137,6 @@ Feel free to connect with me:
 - 📄 Python Course  
 - 📄 Web Development Training  
 
-*(Add certificates when available)*
 
 ---
 
