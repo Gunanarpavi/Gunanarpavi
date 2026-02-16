@@ -86,7 +86,7 @@ A machine learning-based system that analyzes skin images and predicts possible 
 - Image Processing  
 
 📁 **Repository:**  
-https://github.com/Gunanarpavi
+https://github.com/Gunanarpavi/Skin-disease-prediction
 
 ---
 
