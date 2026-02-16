@@ -9,7 +9,7 @@ I am a passionate and motivated Software Developer who loves learning, building,
 
 ## 📌 About Me
 
-- 🎓 Computer Science / IT Enthusiast  
+- 🎓 Computer Science Enthusiast  
 - 💡 Interested in Software Development & Problem Solving  
 - 🌱 Currently improving Data Structures & Algorithms  
 - 🚀 Actively working on projects  
@@ -47,7 +47,8 @@ I am a passionate and motivated Software Developer who loves learning, building,
 
 - ✔️ Quick Learner  
 - ✔️ Adaptable  
-- ✔️ Team Player  
+- ✔️ Team Player
+- ✔️ Multi-tasking
 - ✔️ Time Management  
 - ✔️ Self-Motivated  
 - ✔️ Communication Skills  
@@ -58,12 +59,12 @@ I am a passionate and motivated Software Developer who loves learning, building,
 
 Here are some of my projects:
 
-### 🔹 Project 1: [Project Name]
+### 🔹 Project 1: [Image steganography]
 📌 Description: Short explanation of the project  
 🛠️ Technologies: Java / Python / Web  
 📁 Repository: Link Here  
 
-### 🔹 Project 2: [Project Name]
+### 🔹 Project 2: [Skin Disaese Prediction]
 📌 Description: Short explanation  
 🛠️ Technologies: Used  
 📁 Repository: Link Here  
@@ -98,7 +99,7 @@ Feel free to connect with me:
 
 | Platform | Link |
 |----------|------|
-| Email | your_email@gmail.com |
+| Email | gunanarpavii@gmail.com |
 | LinkedIn | https://linkedin.com/in/yourprofile |
 | GitHub | https://github.com/yourusername |
 
