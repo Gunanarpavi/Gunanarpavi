@@ -70,7 +70,7 @@ A security-based application that hides secret messages inside images using encr
 - Image Processing  
 
 📁 **Repository:**  
-https://github.com/Gunanarpavi
+https://github.com/Gunanarpavi/Image-Steganography
 
 ---
 
